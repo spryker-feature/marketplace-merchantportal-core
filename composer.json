@@ -1,0 +1,18 @@
+{
+  "name": "spryker-feature/marketplace-merchantportal-core",
+  "description": "Marketplace MerchantPortal Core [feature]",
+  "type": "metapackage",
+  "license": "proprietary",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "require": {
+    "php": ">=7.2",
+    "spryker/authentication-merchant-portal-gui": "^0.2.0",
+    "spryker/dashboard-merchant-portal-gui": "^0.2.0"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "202008.x-dev"
+    }
+  }
+}
