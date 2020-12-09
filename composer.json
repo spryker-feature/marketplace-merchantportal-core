@@ -6,13 +6,11 @@
   "minimum-stability": "dev",
   "prefer-stable": true,
   "require": {
-    "php": ">=7.2",
-    "spryker/authentication-merchant-portal-gui": "^0.2.0",
-    "spryker/dashboard-merchant-portal-gui": "^0.2.0"
+    "php": ">=7.3"
   },
   "extra": {
     "branch-alias": {
-      "dev-master": "202008.x-dev"
+      "dev-master": "202009.x-dev"
     }
   }
 }
