@@ -1,17 +1,18 @@
 {
-  "name": "spryker-feature/marketplace-merchantportal-core",
-  "description": "Marketplace MerchantPortal Core [feature]",
-  "type": "metapackage",
-  "license": "proprietary",
-  "minimum-stability": "dev",
-  "prefer-stable": true,
-  "require": {
-    "php": ">=7.3",
-    "spryker/gui-table": "^0.4.0"
-  },
-  "extra": {
-    "branch-alias": {
-      "dev-master": "202009.x-dev"
+    "name": "spryker-feature/marketplace-merchantportal-core",
+    "description": "Marketplace MerchantPortal Core [feature]",
+    "type": "metapackage",
+    "license": "proprietary",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=7.3",
+        "spryker/gui-table": "^0.4.0",
+        "spryker/merchant-user-password-reset-mail": "^0.1.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "202107.x-dev"
+        }
     }
-  }
 }
