@@ -13,4 +13,3 @@ composer require spryker-feature/marketplace-merchantportal-core
 - [DashboardMerchantPortalGuiExtension ^0.1.0](https://github.com/spryker/dashboard-merchant-portal-gui-extension) (Extension)
 - [SecurityMerchantPortalGui ^0.4.7](https://github.com/spryker/security-merchant-portal-gui) (MP GUI)
 - [UserMerchantPortalGui ^0.3.0](https://github.com/spryker/user-merchant-portal-gui) (MP GUI)
-- [ZedUi ^0.6.0](https://github.com/spryker/zed-ui) (MP GUI)
