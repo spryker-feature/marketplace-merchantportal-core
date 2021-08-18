@@ -9,5 +9,7 @@ composer require spryker-feature/marketplace-merchantportal-core
 ```
 
 ## Optional modules
-- [DashboardMerchantPortalGui ^0.5.0](https://github.com/spryker/dashboard-merchant-portal-gui) (MP GUI)
-- [DashboardMerchantPortalGuiExtension ^0.1.0](https://github.com/spryker/dashboard-merchant-portal-gui-extension) (Extension)
+- [DashboardMerchantPortalGui ^1.0.0](https://github.com/spryker/dashboard-merchant-portal-gui) (MP GUI)
+- [DashboardMerchantPortalGuiExtension ^1.0.0](https://github.com/spryker/dashboard-merchant-portal-gui-extension) (Extension)
+- [MerchantUserExtension ^1.0.0](https://github.com/spryker/merchant-user-extension) (Extension)
+- [UserMerchantPortalGuiExtension ^1.0.0](https://github.com/spryker/user-merchant-portal-gui-extension) (Extension)
