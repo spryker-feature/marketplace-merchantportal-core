@@ -23,5 +23,8 @@
         "branch-alias": {
             "dev-master": "202108.x-dev"
         }
+    },
+    "suggest": {
+        "spryker-feature/acl": "Recommended feature dependency."
     }
 }
