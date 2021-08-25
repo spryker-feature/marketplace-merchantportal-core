@@ -8,6 +8,11 @@ Marketplace MerchantPortal Core enables server configuration and the basic funct
 composer require spryker-feature/marketplace-merchantportal-core
 ```
 
+## Recommended feature dependencies
+- [spryker-feature/acl](https://github.com/spryker-feature/acl)
+
+If you don't include the feature dependencies, make sure you use the respective modules instead.
+
 ## Optional modules
 - [DashboardMerchantPortalGui ^1.0.0](https://github.com/spryker/dashboard-merchant-portal-gui) (MP GUI)
 - [DashboardMerchantPortalGuiExtension ^1.0.0](https://github.com/spryker/dashboard-merchant-portal-gui-extension) (Extension)
