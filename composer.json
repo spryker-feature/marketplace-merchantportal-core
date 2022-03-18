@@ -6,7 +6,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=7.3",
+        "php": ">=7.4",
         "spryker/acl": "^3.9.0",
         "spryker/acl-entity": "^1.0.0",
         "spryker/acl-merchant-portal": "^1.1.0",
@@ -21,7 +21,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202108.x-dev"
+            "dev-master": "202204.x-dev"
         }
     },
     "suggest": {
