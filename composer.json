@@ -10,7 +10,7 @@
         "spryker/acl": "^3.9.0",
         "spryker/acl-entity": "^1.0.0",
         "spryker/acl-merchant-portal": "^1.1.0",
-        "spryker/gui-table": "^1.0.0",
+        "spryker/gui-table": "^1.4.0",
         "spryker/merchant-portal-application": "^1.0.0",
         "spryker/merchant-user": "^1.0.0",
         "spryker/merchant-user-password-reset-mail": "^1.0.0",
