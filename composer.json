@@ -7,9 +7,9 @@
     "prefer-stable": true,
     "require": {
         "php": ">=7.4",
-        "spryker/acl": "^3.10.0",
-        "spryker/acl-entity": "^1.3.0",
-        "spryker/acl-merchant-portal": "^1.5.0",
+        "spryker/acl": "^3.12.0",
+        "spryker/acl-entity": "^1.4.0",
+        "spryker/acl-merchant-portal": "^1.7.0",
         "spryker/gui-table": "^1.4.0",
         "spryker/merchant-portal-application": "^1.0.0",
         "spryker/merchant-user": "^1.1.0",
