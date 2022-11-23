@@ -6,7 +6,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=7.4",
+        "php": ">=8.0",
         "spryker/acl": "^3.13.0",
         "spryker/acl-entity": "^1.6.0",
         "spryker/acl-merchant-portal": "^1.8.0",
