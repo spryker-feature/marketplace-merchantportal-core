@@ -15,7 +15,7 @@ If you don't include the feature dependencies, make sure you use the respective 
 
 ## Optional modules
 - [AclMerchantPortalExtension ^1.0.0](https://github.com/spryker/acl-merchant-portal-extension) (Extension)
-- [DashboardMerchantPortalGui ^2.0.0](https://github.com/spryker/dashboard-merchant-portal-gui) (MP GUI)
+- [DashboardMerchantPortalGui ^2.1.0](https://github.com/spryker/dashboard-merchant-portal-gui) (MP GUI)
 - [DashboardMerchantPortalGuiExtension ^1.0.0](https://github.com/spryker/dashboard-merchant-portal-gui-extension) (Extension)
 - [MerchantUserExtension ^1.1.0](https://github.com/spryker/merchant-user-extension) (Extension)
 - [SecurityBlockerMerchantPortalGui ^1.0.0](https://github.com/spryker/security-blocker-merchant-portal-gui) (MP GUI)
