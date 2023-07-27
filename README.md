@@ -2,6 +2,8 @@
 
 Marketplace MerchantPortal Core enables server configuration and the basic functionality of the Merchant Portal such as security login. (Login URL is http://mp.de.spryker.local/security-merchant-portal-gui/login)
 
+[Learn more](https://docs.spryker.com/docs/pbc/all/merchant-management/202307.0/marketplace/marketplace-merchant-portal-core-feature-overview/marketplace-merchant-portal-core-feature-overview.html)
+
 ## Installation
 
 ```
