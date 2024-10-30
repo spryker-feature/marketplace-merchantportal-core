@@ -8,17 +8,17 @@
     "require": {
         "php": ">=8.2",
         "spryker/acl": "^3.21.0",
-        "spryker/acl-entity": "^1.10.0",
-        "spryker/acl-merchant-portal": "^1.12.0",
-        "spryker/gui-table": "^3.0.0",
-        "spryker/merchant-portal-application": "^1.2.0",
-        "spryker/merchant-user": "^1.5.0",
+        "spryker/acl-entity": "^1.12.0",
+        "spryker/acl-merchant-portal": "^1.13.0",
+        "spryker/gui-table": "^3.1.0",
+        "spryker/merchant-portal-application": "^1.4.0",
+        "spryker/merchant-user": "^1.6.0",
         "spryker/merchant-user-password-reset-mail": "^1.2.0",
         "spryker/navigation": "^2.8.0",
         "spryker/security-blocker-merchant-portal": "^1.0.0",
-        "spryker/security-merchant-portal-gui": "^3.0.0",
+        "spryker/security-merchant-portal-gui": "^3.2.0",
         "spryker/user-merchant-portal-gui": "^3.0.0",
-        "spryker/zed-ui": "^3.0.0"
+        "spryker/zed-ui": "^3.2.0"
     },
     "extra": {
         "branch-alias": {
