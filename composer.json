@@ -10,16 +10,16 @@
         "spryker/acl": "^3.25.0",
         "spryker/acl-entity": "^1.15.0",
         "spryker/acl-merchant-portal": "^1.13.0",
-        "spryker/gui-table": "^3.4.0",
+        "spryker/gui-table": "^4.0.0",
         "spryker/merchant-portal-application": "^1.4.0",
         "spryker/merchant-user": "^1.8.0",
         "spryker/merchant-user-password-reset-mail": "^1.2.0",
-        "spryker/multi-factor-auth-merchant-portal": "^1.2.0",
+        "spryker/multi-factor-auth-merchant-portal": "^2.0.0",
         "spryker/navigation": "^2.9.0",
         "spryker/security-blocker-merchant-portal": "^1.0.0",
-        "spryker/security-merchant-portal-gui": "^3.8.0",
-        "spryker/user-merchant-portal-gui": "^3.5.0",
-        "spryker/zed-ui": "^3.4.0"
+        "spryker/security-merchant-portal-gui": "^4.0.0",
+        "spryker/user-merchant-portal-gui": "^4.0.0",
+        "spryker/zed-ui": "^4.0.0"
     },
     "extra": {
         "branch-alias": {
